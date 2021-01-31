@@ -1,4 +1,4 @@
-module gitlab.com/dbmss/testcmd
+module github.com/dibeshmsshrestha/testcmd
 
 go 1.14
 
